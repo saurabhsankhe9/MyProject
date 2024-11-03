@@ -1,0 +1,99 @@
+17:33:51.194 [main] INFO  testCases.TC_001_LoginTest - *****Start TC_001_LoginTest***** 
+17:33:51.452 [main] INFO  testCases.TC_001_LoginTest - Enter Username
+17:33:51.645 [main] INFO  testCases.TC_001_LoginTest - Enter Password
+17:33:52.778 [main] INFO  testCases.TC_001_LoginTest - Click on login button
+17:33:52.841 [main] INFO  testCases.TC_001_LoginTest - Validate confirmation login message
+17:33:53.406 [main] INFO  testCases.TC_001_LoginTest - Click on LogOut Button
+17:33:53.407 [main] INFO  testCases.TC_001_LoginTest - *****Finish TC_001_LoginTest***** 
+17:35:12.555 [main] INFO  testCases.TC_001_LoginTest - *****Start TC_001_LoginTest***** 
+17:35:12.847 [main] INFO  testCases.TC_001_LoginTest - Enter Username
+17:35:13.075 [main] INFO  testCases.TC_001_LoginTest - Enter Password
+17:35:13.948 [main] INFO  testCases.TC_001_LoginTest - Click on login button
+12:54:19.141 [main] INFO  testCases.TC_001_LoginTest - *****Start TC_001_LoginTest***** 
+12:54:19.891 [main] INFO  testCases.TC_001_LoginTest - Enter Username
+12:54:20.196 [main] INFO  testCases.TC_001_LoginTest - Enter Password
+12:54:21.582 [main] INFO  testCases.TC_001_LoginTest - Click on login button
+12:55:35.615 [main] INFO  testCases.TC_001_LoginTest - *****Start TC_001_LoginTest***** 
+12:55:36.175 [main] INFO  testCases.TC_001_LoginTest - Enter Username
+12:55:36.634 [main] INFO  testCases.TC_001_LoginTest - Enter Password
+12:55:37.681 [main] INFO  testCases.TC_001_LoginTest - Click on login button
+12:55:37.794 [main] INFO  testCases.TC_001_LoginTest - Validate confirmation login message
+12:55:38.542 [main] INFO  testCases.TC_001_LoginTest - Click on LogOut Button
+12:55:38.544 [main] INFO  testCases.TC_001_LoginTest - *****Finish TC_001_LoginTest***** 
+13:19:14.964 [main] INFO  testCases.TC_001_LoginTest - *****Start TC_001_LoginTest***** 
+13:19:15.297 [main] INFO  testCases.TC_001_LoginTest - Enter Username
+13:19:15.670 [main] INFO  testCases.TC_001_LoginTest - Enter Password
+13:19:17.078 [main] INFO  testCases.TC_001_LoginTest - Click on login button
+13:19:17.205 [main] INFO  testCases.TC_001_LoginTest - Validate confirmation login message
+13:19:17.854 [main] INFO  testCases.TC_001_LoginTest - Click on LogOut Button
+13:19:17.854 [main] INFO  testCases.TC_001_LoginTest - *****Finish TC_001_LoginTest***** 
+13:22:12.018 [main] INFO  testCases.TC_001_LoginTest - *****Start TC_001_LoginTest***** 
+13:22:12.341 [main] INFO  testCases.TC_001_LoginTest - Enter Username
+13:22:12.569 [main] INFO  testCases.TC_001_LoginTest - Enter Password
+13:22:13.786 [main] INFO  testCases.TC_001_LoginTest - Click on login button
+13:22:13.933 [main] INFO  testCases.TC_001_LoginTest - Validate confirmation login message
+13:22:14.690 [main] INFO  testCases.TC_001_LoginTest - Click on LogOut Button
+13:22:14.690 [main] INFO  testCases.TC_001_LoginTest - *****Finish TC_001_LoginTest***** 
+13:53:02.732 [main] INFO  testCases.TC_001_LoginTest - *****Start TC_001_LoginTest***** 
+13:53:04.211 [main] INFO  testCases.TC_001_LoginTest - Enter Username
+13:53:04.437 [main] INFO  testCases.TC_001_LoginTest - Enter Password
+13:53:05.371 [main] INFO  testCases.TC_001_LoginTest - Click on login button
+13:53:05.447 [main] INFO  testCases.TC_001_LoginTest - Validate confirmation login message
+13:53:05.999 [main] INFO  testCases.TC_001_LoginTest - Click on LogOut Button
+13:53:05.999 [main] INFO  testCases.TC_001_LoginTest - *****Finish TC_001_LoginTest***** 
+13:56:04.752 [main] INFO  testCases.TC_001_LoginTest - *****Start TC_001_LoginTest***** 
+13:56:05.158 [main] INFO  testCases.TC_001_LoginTest - Enter Username
+13:56:05.406 [main] INFO  testCases.TC_001_LoginTest - Enter Password
+13:56:06.262 [main] INFO  testCases.TC_001_LoginTest - Click on login button
+13:56:06.375 [main] INFO  testCases.TC_001_LoginTest - Validate confirmation login message
+13:56:06.947 [main] INFO  testCases.TC_001_LoginTest - Click on LogOut Button
+13:56:06.948 [main] INFO  testCases.TC_001_LoginTest - *****Finish TC_001_LoginTest***** 
+15:45:44.091 [main] INFO  testCases.TC_001_LoginTest - *****Start TC_001_LoginTest***** 
+15:45:44.295 [main] INFO  testCases.TC_001_LoginTest - Enter Username
+15:45:44.450 [main] INFO  testCases.TC_001_LoginTest - Enter Password
+15:45:45.218 [main] INFO  testCases.TC_001_LoginTest - Click on login button
+15:45:45.306 [main] INFO  testCases.TC_001_LoginTest - Validate confirmation login message
+15:45:45.834 [main] INFO  testCases.TC_001_LoginTest - Click on LogOut Button
+15:45:45.839 [main] INFO  testCases.TC_001_LoginTest - *****Finish TC_001_LoginTest***** 
+16:25:40.889 [main] INFO  testCases.TC_001_LoginTest - *****Start TC_001_LoginTest***** 
+16:25:42.258 [main] INFO  testCases.TC_001_LoginTest - Enter Username
+16:25:42.406 [main] INFO  testCases.TC_001_LoginTest - Enter Password
+16:25:43.242 [main] INFO  testCases.TC_001_LoginTest - Click on login button
+16:25:43.304 [main] INFO  testCases.TC_001_LoginTest - Validate confirmation login message
+16:25:43.785 [main] INFO  testCases.TC_001_LoginTest - Click on LogOut Button
+16:25:43.785 [main] INFO  testCases.TC_001_LoginTest - *****Finish TC_001_LoginTest***** 
+16:39:46.926 [main] INFO  testCases.TC_001_LoginTest - *****Start TC_001_LoginTest***** 
+16:39:48.313 [main] INFO  testCases.TC_001_LoginTest - Enter Username
+16:39:48.468 [main] INFO  testCases.TC_001_LoginTest - Enter Password
+16:39:49.396 [main] INFO  testCases.TC_001_LoginTest - Click on login button
+16:39:49.472 [main] INFO  testCases.TC_001_LoginTest - Validate confirmation login message
+16:39:49.995 [main] INFO  testCases.TC_001_LoginTest - Click on LogOut Button
+16:39:49.995 [main] INFO  testCases.TC_001_LoginTest - *****Finish TC_001_LoginTest***** 
+16:43:06.706 [main] INFO  testCases.TC_001_LoginTest - *****Start TC_001_LoginTest***** 
+16:43:06.894 [main] INFO  testCases.TC_001_LoginTest - Enter Username
+16:43:07.035 [main] INFO  testCases.TC_001_LoginTest - Enter Password
+16:43:07.916 [main] INFO  testCases.TC_001_LoginTest - Click on login button
+16:43:07.972 [main] INFO  testCases.TC_001_LoginTest - Validate confirmation login message
+16:43:08.654 [main] INFO  testCases.TC_001_LoginTest - Click on LogOut Button
+16:43:08.654 [main] INFO  testCases.TC_001_LoginTest - *****Finish TC_001_LoginTest***** 
+16:46:39.102 [main] INFO  testCases.TC_001_LoginTest - *****Start TC_001_LoginTest***** 
+16:46:39.290 [main] INFO  testCases.TC_001_LoginTest - Enter Username
+16:46:39.436 [main] INFO  testCases.TC_001_LoginTest - Enter Password
+16:46:40.221 [main] INFO  testCases.TC_001_LoginTest - Click on login button
+16:46:40.271 [main] INFO  testCases.TC_001_LoginTest - Validate confirmation login message
+16:46:40.752 [main] INFO  testCases.TC_001_LoginTest - Click on LogOut Button
+16:46:40.752 [main] INFO  testCases.TC_001_LoginTest - *****Finish TC_001_LoginTest***** 
+16:49:46.520 [main] INFO  testCases.TC_001_LoginTest - *****Start TC_001_LoginTest***** 
+16:49:46.708 [main] INFO  testCases.TC_001_LoginTest - Enter Username
+16:49:46.859 [main] INFO  testCases.TC_001_LoginTest - Enter Password
+16:49:47.629 [main] INFO  testCases.TC_001_LoginTest - Click on login button
+16:49:47.698 [main] INFO  testCases.TC_001_LoginTest - Validate confirmation login message
+16:49:47.903 [main] INFO  testCases.TC_001_LoginTest - Click on LogOut Button
+16:49:47.905 [main] INFO  testCases.TC_001_LoginTest - *****Finish TC_001_LoginTest***** 
+17:10:40.079 [main] INFO  testCases.TC_001_LoginTest - *****Start TC_001_LoginTest***** 
+17:10:40.290 [main] INFO  testCases.TC_001_LoginTest - Enter Username
+17:10:40.495 [main] INFO  testCases.TC_001_LoginTest - Enter Password
+17:10:41.259 [main] INFO  testCases.TC_001_LoginTest - Click on login button
+17:10:41.355 [main] INFO  testCases.TC_001_LoginTest - Validate confirmation login message
+17:10:41.889 [main] INFO  testCases.TC_001_LoginTest - Click on LogOut Button
+17:10:41.890 [main] INFO  testCases.TC_001_LoginTest - *****Finish TC_001_LoginTest***** 
